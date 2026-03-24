@@ -9,6 +9,5 @@ print(vards)
 import cowsay
 
 cowsay.cow(pyjokes.get_joke())
- 
 
- print(cowsay.get_output_string('cow', pyjokes.get_joke()))
+print(cowsay.get_output_string('cow', pyjokes.get_joke()))
